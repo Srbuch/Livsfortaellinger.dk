@@ -1,3 +1,3 @@
-# Bootstrap & SASS Kick start projekt
+# WWW.LIVSFORTAELLINGER.DK
 
-Klon dette projekt og kom hurtigt i gang med dit næste projekt.
+Livsfortaellinger er en mulighed for dig som privat person for, at få din egen historie fotalt.
